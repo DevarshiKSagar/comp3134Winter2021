@@ -1,0 +1,25 @@
+• What is the definition of server port?
+ ports are logical path through which internet traffic goes trough. different softwares can use these ports.
+ through these ports data coming from internet can be directed to that particular software that is using that port. 
+
+• What is server port range?
+regitered port are in range of 1024 to 49151.
+dynamic ports are in range of 49152 to 65535
+
+• How many bits does number above represent?
+16 bits
+
+• State 10 common server ports
+
+20 - ftp data transfer
+21 - ftp command control
+23 - telnet - remote login service 
+25 - simple mail transfer protocol
+53 - Domain name system service
+80 - Hypertext Transfer Protocol
+110 - Post Office Protocol 
+123 - Network Time Protocol
+143 - Internet Message Access Protocol 
+194 - Internet Relay Chat
+
+ 
