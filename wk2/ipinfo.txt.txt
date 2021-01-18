@@ -1,0 +1,630 @@
+javatpoint.com :
+
+IP
+
+194.169.80.121
+
+Continent Code
+
+EU
+
+Continent Name
+
+Europe
+
+Country Code (ISO 3166-1 alpha-2)
+
+GB
+
+Country Code (ISO 3166-1 alpha-3)
+
+GBR
+
+Country Name
+
+United Kingdom
+
+Country Flag
+
+Country Capital
+
+London
+
+State/Province
+
+England
+
+District/County
+
+Fitzrovia
+
+City
+
+London
+
+Zip Code
+
+W1W 7LT
+
+Latitude & Longitude of City
+
+51.51853 , -0.14225
+
+Geoname ID
+
+Calling Code
+
++44
+
+Country TLD
+
+.uk
+
+Languages
+
+en-GB,cy-GB,gd
+
+ISP
+
+AWEBSOLUTIONS LIMITED
+
+Connection Type
+
+Organization
+
+UK Dedicated Servers Limited
+
+AS Number
+
+AS42831
+
+Currency
+
+Pound Sterling
+
+Currency Code
+
+GBP
+
+Currency Symbol
+
+£
+
+Timezone
+
+Europe/London
+
+Timezone Offset
+
+0
+
+Current Time
+
+2021-01-18 20:38:01.580+0000
+
+Current Time Unix
+
+1.61100228158E9
+
+Is DST?
+
+false
+
+DST Savings
+
+1
+
+
+
+
+facebook :--
+
+IP
+
+157.240.20.35
+
+Hostname
+
+edge-star-mini-shv-02-frt3.facebook.com
+
+Continent Code
+
+NA
+
+Continent Name
+
+North America
+
+Country Code (ISO 3166-1 alpha-2)
+
+US
+
+Country Code (ISO 3166-1 alpha-3)
+
+USA
+
+Country Name
+
+United States
+
+Country Flag
+
+Country Capital
+
+Washington, D.C.
+
+State/Province
+
+California
+
+District/County
+
+San Mateo
+
+City
+
+Menlo Park
+
+Zip Code
+
+94025
+
+Latitude & Longitude of City
+
+37.48235 , -122.15051
+
+Geoname ID
+
+11788840
+
+Is EU?
+
+false
+
+Calling Code
+
++1
+
+Country TLD
+
+.us
+
+Languages
+
+en-US,es-US,haw,fr
+
+ISP
+
+Facebook, Inc.
+
+Connection Type
+
+Organization
+
+Facebook, Inc.
+
+AS Number
+
+AS32934
+
+Currency
+
+US Dollar
+
+Currency Code
+
+USD
+
+Currency Symbol
+
+$
+
+Timezone
+
+America/Los_Angeles
+
+Timezone Offset
+
+-8
+
+Current Time
+
+2021-01-18 12:39:57.402-0800
+
+Current Time Unix
+
+1.611002397402E9
+
+Is DST?
+
+false
+
+DST Savings
+
+1
+
+tutorialspoint : --
+
+
+IP
+
+93.184.220.42
+
+Hostname
+
+93.184.220.42
+
+Continent Code
+
+NA
+
+Continent Name
+
+North America
+
+Country Code (ISO 3166-1 alpha-2)
+
+US
+
+Country Code (ISO 3166-1 alpha-3)
+
+USA
+
+Country Name
+
+United States
+
+Country Flag
+
+Country Capital
+
+Washington, D.C.
+
+State/Province
+
+California
+
+District/County
+
+City
+
+Los Angeles
+
+Zip Code
+
+90012
+
+Latitude & Longitude of City
+
+33.97570 , -118.42600
+
+Geoname ID
+
+5368361
+
+Is EU?
+
+false
+
+Calling Code
+
++1
+
+Country TLD
+
+.us
+
+Languages
+
+en-US,es-US,haw,fr
+
+ISP
+
+EDGECAST
+
+Connection Type
+
+Organization
+
+AS Number
+
+AS15133
+
+Currency
+
+US Dollar
+
+Currency Code
+
+USD
+
+Currency Symbol
+
+$
+
+Timezone
+
+America/Los_Angeles
+
+Timezone Offset
+
+-8
+
+Current Time
+
+2021-01-18 12:41:10.542-0800
+
+Current Time Unix
+
+1.611002470542E9
+
+Is DST?
+
+false
+
+DST Savings
+
+1
+
+
+cibc :--
+
+IP
+
+104.74.127.67
+
+Hostname
+
+a104-74-127-67.deploy.static.akamaitechnologies.com
+
+Continent Code
+
+EU
+
+Continent Name
+
+Europe
+
+Country Code (ISO 3166-1 alpha-2)
+
+NL
+
+Country Code (ISO 3166-1 alpha-3)
+
+NLD
+
+Country Name
+
+Netherlands
+
+Country Flag
+
+Country Capital
+
+Amsterdam
+
+State/Province
+
+North Holland
+
+District/County
+
+Oost / Watergraafsmeer
+
+City
+
+Amsterdam
+
+Zip Code
+
+1097 JB
+
+Latitude & Longitude of City
+
+52.34786 , 4.91962
+
+Geoname ID
+
+6639768
+
+Is EU?
+
+true
+
+Calling Code
+
++31
+
+Country TLD
+
+.nl
+
+Languages
+
+nl-NL,fy-NL
+
+ISP
+
+Akamai International, BV
+
+Connection Type
+
+Organization
+
+Akamai Technologies, Inc.
+
+AS Number
+
+AS16625
+
+Currency
+
+Euro
+
+Currency Code
+
+EUR
+
+Currency Symbol
+
+€
+
+Timezone
+
+Europe/Amsterdam
+
+Timezone Offset
+
+1
+
+Current Time
+
+2021-01-18 21:42:07.964+0100
+
+Current Time Unix
+
+1.611002527964E9
+
+Is DST?
+
+false
+
+DST Savings
+
+1
+
+
+
+
+tdbank:--
+
+IP
+
+192.229.182.193
+
+Hostname
+
+192.229.182.193
+
+Continent Code
+
+NA
+
+Continent Name
+
+North America
+
+Country Code (ISO 3166-1 alpha-2)
+
+US
+
+Country Code (ISO 3166-1 alpha-3)
+
+USA
+
+Country Name
+
+United States
+
+Country Flag
+
+Country Capital
+
+Washington, D.C.
+
+State/Province
+
+Virginia
+
+District/County
+
+Loudoun
+
+City
+
+Ashburn
+
+Zip Code
+
+20147-6105
+
+Latitude & Longitude of City
+
+39.01121 , -77.47120
+
+Geoname ID
+
+6499989
+
+Is EU?
+
+false
+
+Calling Code
+
++1
+
+Country TLD
+
+.us
+
+Languages
+
+en-US,es-US,haw,fr
+
+ISP
+
+MCI Communications Services, Inc. d/b/a Verizon Business
+
+Connection Type
+
+Organization
+
+MCI Communications Services, Inc. d/b/a Verizon Business
+
+AS Number
+
+AS15133
+
+Currency
+
+US Dollar
+
+Currency Code
+
+USD
+
+Currency Symbol
+
+$
+
+Timezone
+
+America/New_York
+
+Timezone Offset
+
+-5
+
+Current Time
+
+2021-01-18 15:43:02.786-0500
+
+Current Time Unix
+
+1.611002582786E9
+
+Is DST?
+
+false
+
+DST Savings
+
+1
+
+
+
+
+
+
+

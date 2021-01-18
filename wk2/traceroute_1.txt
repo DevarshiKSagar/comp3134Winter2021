@@ -1,0 +1,32 @@
+root@lamp-ubuntu-s-1vcpu-1gb-tor1-01:~# traceroute  www.FQDN.com
+traceroute to www.FQDN.com (91.195.241.137), 30 hops max, 60 byte packets
+ 1  * * *
+ 2  10.78.6.93 (10.78.6.93)  1.144 ms 10.78.4.2 (10.78.4.2)  0.878 ms 10.78.6.91 (10.78.6.91)  0.811 ms
+ 3  138.197.249.78 (138.197.249.78)  1.864 ms 138.197.249.82 (138.197.249.82)  1.828 ms 138.197.249.90 (138.197.249.90)  2.724 ms
+ 4  toro-b1-link.telia.net (62.115.55.29)  1.330 ms  1.318 ms  1.296 ms
+ 5  toro-b3-link.ip.twelve99.net (62.115.116.180)  1.488 ms  1.236 ms  1.213 ms
+ 6  * * *
+ 7  ldn-bb1-link.ip.twelve99.net (62.115.113.21)  106.503 ms ash-bb2-link.ip.twelve99.net (62.115.136.201)  117.096 ms *
+ 8  prs-bb3-link.ip.twelve99.net (62.115.123.69)  107.077 ms  106.749 ms prs-bb3-link.ip.twelve99.net (62.115.112.243)  118.122 ms
+ 9  ffm-bb1-link.ip.twelve99.net (62.115.123.12)  105.958 ms prs-bb2-link.ip.twelve99.net (62.115.137.115)  119.686 ms ffm-bb1-link.ip.twelve99.net (62.115.123.12)  106.012 ms
+10  ffm-bb2-link.ip.twelve99.net (62.115.118.87)  105.655 ms  105.617 ms  105.651 ms
+11  ffm-bb1-link.ip.twelve99.net (62.115.123.12)  118.731 ms mcn-b3-link.ip.twelve99.net (62.115.124.47)  104.815 ms  105.404 ms
+12  mcn-b2-link.ip.twelve99.net (62.115.120.78)  105.687 ms ffm-bb2-link.ip.twelve99.net (62.115.118.87)  118.495 ms mcn-b2-link.ip.twelve99.net (62.115.120.78)  105.913 ms
+13  mcn-b3-link.ip.twelve99.net (62.115.124.47)  117.892 ms internetx-ic-332227-mcn-b2.c.telia.net (62.115.160.178)  105.979 ms mcn-b3-link.ip.twelve99.net (62.115.124.47)  118.564 ms
+14  * mcn-b2-link.ip.twelve99.net (62.115.120.78)  118.222 ms *
+15  * * internetx-ic-332227-mcn-b2.c.telia.net (62.115.160.178)  118.684 ms
+16  * * *
+17  * * *
+18  * * *
+19  * * *
+20  * * *
+21  * * *
+22  * * *
+23  * * *
+24  * * *
+25  * * *
+26  * * *
+27  * * *
+28  * * *
+29  * * *
+30  * * *

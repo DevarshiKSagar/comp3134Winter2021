@@ -1,0 +1,123 @@
+IP Address Look-Up
+------------------
+edx
+Registrar Info
+
+NameNetwork Solutions, LLC
+Whois Serverwhois.networksolutions.com
+Referral URLhttp://networksolutions.com
+StatusclientTransferProhibited https://icann.org/epp#clientTransferProhibited
+
+Important Dates
+
+Expires On2022-02-08
+Registered On1995-02-07
+Updated On2017-07-30
+
+lynda
+
+Registrar Info
+
+NameMarkMonitor, Inc.
+Whois Serverwhois.markmonitor.com
+Referral URLhttp://www.markmonitor.com
+StatusclientDeleteProhibited (https://www.icann.org/epp#clientDeleteProhibited)
+clientTransferProhibited (https://www.icann.org/epp#clientTransferProhibited)
+clientUpdateProhibited (https://www.icann.org/epp#clientUpdateProhibited)
+serverDeleteProhibited (https://www.icann.org/epp#serverDeleteProhibited)
+serverTransferProhibited (https://www.icann.org/epp#serverTransferProhibited)
+serverUpdateProhibited (https://www.icann.org/epp#serverUpdateProhibited)
+
+Important Dates
+
+Expires On2024-10-30
+Registered On1995-12-21
+Updated On2017-02-02
+
+Name Servers
+
+dns1.p09.nsone.net198.51.44.9
+dns2.p09.nsone.net198.51.45.9
+dns3.p09.nsone.net198.51.44.73
+dns4.p09.nsone.net198.51.45.73
+ns1.p43.dynect.net208.78.70.43
+ns2.p43.dynect.net204.13.250.43
+ns3.p43.dynect.net208.78.71.43
+ns4.p43.dynect.net204.13.251.43
+
+w3schools:
+
+Registrar Info
+NameGMO INTERNET, INC.
+Whois Serverwhois.discount-domain.com
+Referral URLhttp://www.onamae.com
+Statusok https://icann.org/epp#ok
+
+Important Dates
+
+Expires On2022-08-25
+Registered On2001-08-25
+Updated On2020-11-13
+
+Name Servers
+
+ns1.value-domain.com5
+ns2.value-domain.com5
+ns3.value-domain.com54.65.55.2
+ns4.value-domain.com18.180.19.156
+ns5.value-domain.com18.182.161.82
+
+amazon :
+
+Registrar Info
+
+NameMarkMonitor, Inc.
+Whois Serverwhois.markmonitor.com
+Referral URLhttp://www.markmonitor.com
+StatusclientDeleteProhibited (https://www.icann.org/epp#clientDeleteProhibited)
+clientTransferProhibited (https://www.icann.org/epp#clientTransferProhibited)
+clientUpdateProhibited (https://www.icann.org/epp#clientUpdateProhibited)
+serverDeleteProhibited (https://www.icann.org/epp#serverDeleteProhibited)
+serverTransferProhibited (https://www.icann.org/epp#serverTransferProhibited)
+serverUpdateProhibited (https://www.icann.org/epp#serverUpdateProhibited)
+
+Important Dates
+
+Expires On2024-10-30
+Registered On1994-11-01
+Updated On2019-08-26
+
+Name Servers
+
+ns1.p31.dynect.net208.78.70.31
+ns2.p31.dynect.net204.13.250.31
+ns3.p31.dynect.net208.78.71.31
+ns4.p31.dynect.net204.13.251.31
+pdns1.ultradns.net204.74.108.1
+pdns6.ultradns.co.uk204.74.115.1
+
+baeldung :
+
+Registrar Info
+
+NameNAMECHEAP INC
+Whois Serverwhois.namecheap.com
+Referral URLhttp://www.namecheap.com
+StatusclientTransferProhibited https://icann.org/epp#clientTransferProhibited
+transferPeriod https://icann.org/epp#transferPeriod
+
+Important Dates
+
+Expires On2022-09-02
+Registered On2011-09-02
+Updated On2020-10-20
+Name Servers
+
+lakas.ns.cloudflare.com1
+meera.ns.cloudflare.com1
+---------------------------------
+
+
+
+
+

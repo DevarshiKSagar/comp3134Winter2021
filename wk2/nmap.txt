@@ -1,0 +1,55 @@
+www.baeldung.com:--
+
+nmap  www.baeldung.com
+
+Starting Nmap 7.80 ( https://nmap.org ) at 2021-01-18 21:30 UTC
+Nmap scan report for www.baeldung.com (104.26.13.74)
+Host is up (0.00082s latency).
+Other addresses for www.baeldung.com (not scanned): 2606:4700:20::ac43:482d 2606:4700:20::681a:d4a 2606:4700:20::681a:c4a 172.67.72.45 104.26.12.74
+Not shown: 996 filtered ports
+PORT     STATE SERVICE
+80/tcp   open  http
+443/tcp  open  https
+8080/tcp open  http-proxy
+8443/tcp open  https-alt
+
+Nmap done: 1 IP address (1 host up) scanned in 5.01 seconds
+
+
+ nmap -p 8080 www.baeldung.com
+
+Starting Nmap 7.80 ( https://nmap.org ) at 2021-01-18 21:33 UTC
+Nmap scan report for www.baeldung.com (104.26.13.74)
+Host is up (0.0013s latency).
+Other addresses for www.baeldung.com (not scanned): 2606:4700:20::681a:c4a 2606:4700:20::681a:d4a 2606:4700:20::ac43:482d 172.67.72.45 104.26.12.74
+
+PORT     STATE SERVICE
+8080/tcp open  http-proxy
+
+Nmap done: 1 IP address (1 host up) scanned in 0.12 seconds
+
+
+nmap -p 8080-8089 www.baeldung.com
+
+Starting Nmap 7.80 ( https://nmap.org ) at 2021-01-18 21:35 UTC
+Nmap scan report for www.baeldung.com (104.26.12.74)
+Host is up (0.0011s latency).
+Other addresses for www.baeldung.com (not scanned): 2606:4700:20::ac43:482d 2606:4700:20::681a:d4a 2606:4700:20::681a:c4a 172.67.72.45 104.26.13.74
+
+PORT     STATE    SERVICE
+8080/tcp open     http-proxy
+8081/tcp filtered blackice-icecap
+8082/tcp filtered blackice-alerts
+8083/tcp filtered us-srv
+8084/tcp filtered unknown
+8085/tcp filtered unknown
+8086/tcp filtered d-s-n
+8087/tcp filtered simplifymedia
+8088/tcp filtered radan-http
+8089/tcp filtered unknown
+
+Nmap done: 1 IP address (1 host up) scanned in 1.32 seconds
+
+
+
+
