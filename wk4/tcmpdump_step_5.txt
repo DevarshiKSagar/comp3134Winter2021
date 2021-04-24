@@ -1,0 +1,33 @@
+17:56:08.782721 IP 167.99.185.101.ssh > cpe9050cad40913-cm9050cad40910.cpe.net.cable.rogers.com.54967: Flags [P.], seq 2077296:2077908, ack 505, win 501, length 612
+        0x0000:  fe00 0000 0101 323f 08dd 003c 0800 4510  ......2?...<..E.
+        0x0010:  028c 9223 4000 4006 36c4 a763 b965 63e3  ...#@.@.6..c.ec.
+        0x0020:  aac8 0016 d6b7 2d1d 0288 6613 f11e 5018  ......-...f...P.
+        0x0030:  01f5 71f3 0000 9ab0 689d a671 919e 8776  ..q.....h..q...v
+        0x0040:  80a9 42c6 f625 d93e 1fbd 2026 a50c 8288  ..B..%.>...&....
+        0x0050:  b3e7 4f5c d7e3 ad8a ab38 0256 ffd3 0223  ..O\.....8.V...#
+        0x0060:  7e87 eeff aac9 d1f6 7ee9 d0c9 cc7a bb8e  ~.......~....z..
+        0x0070:  2250 0904 1121 e822 f2f4 78fe ca1e 4f67  "P...!."..x...Og
+        0x0080:  ee16 cf99 dae2 8a50 b111 26ae ddf8 f0f7  .......P..&.....
+        0x0090:  cadd ffd7 3a55 16f0 e034 9b4a 0f82 7523  ....:U...4.J..u#
+        0x00a0:  c6db 4ffb 4d99 944d 2272 3ac6 0bdd b83f  ..O.M..M"r:....?
+        0x00b0:  a052 3184 46a7 28b1 e38e 8c58 24eb c370  .R1.F.(....X$..p
+        0x00c0:  bb36 c326 8f3c fc6f b262 d71c c415 da59  .6.&.<.o.b.....Y
+        0x00d0:  81bc ec2a 77ae 3e1b 110b b229 4455 9197  ...*w.>....)DU..
+        0x00e0:  5a08 68de 1929 e765 3aa9 f261 5f11 f405  Z.h..).e:..a_...
+        0x00f0:  1982 f1dc abdb 64ae c05e a79a 9a3d 7245  ......d..^...=rE
+        0x0100:  9c7c 9526 07bd e0f7 c371 d027 f8a8 c5ab  .|.&.....q.'....
+        0x0110^C
+        0x0160:  60cc cdd5 ef94 ba7f 5d73 2cea ef62 cefd  `.......]s,..b..
+        0x0170:  15a8 5387 ad8e 5cd0 a3d0 a054 9045 15b5  ..S...\....T.E..
+        0x0180:  a265 af54 beb5 54c7 cb05 c3a4 8b21 042d  .e.T..T......!.-
+        0x0190:  8cc8 d89a 9bd0 d717 f37b 84bb 160d 6449  .........{....dI
+        0x01a0:  15f4 e274 028d 26f1 8e02 3599 284c c54c  ...t..&...5.(L.L
+        0x01b0:  3b60 f1a5 8b73 ed9b b731 5d11 bed1 c2c2  ;`...s...1].....
+        0x01c0:  de17 5cee 80df 61ef 5770 7f13 70e1 4eef  ..\...a.Wp..p.N.
+        0x01d0:  eac0 e5dc a19a 7792 71c8 19ac 6885 1790  ......w.q...h...
+        0x01e0:  e66e 22e2 5a45 cdca baf0 8c24 8f0e 6169  .n".ZE.....$..ai
+        0x01f0:  e7b2 7c5e 06f0 4ef1 fae7                 ..|^..N...
+
+488 packets captured
+5582 packets received by filter
+5062 packets dropped by kernel

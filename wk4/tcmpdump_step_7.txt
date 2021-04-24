@@ -1,0 +1,182 @@
+root@Week1:~# tcpdump -r 0001.pcap
+reading from file 0001.pcap, link-type EN10MB (Ethernet)
+17:57:12.021608 IP 167.99.185.101.ssh > cpe9050cad40913-cm9050cad40910.cpe.net.cable.rogers.com.54967: Flags [P.], seq 756943972:756944016, ack 1712583962, win 501, length 44
+17:57:12.021746 IP 167.99.185.101.ssh > cpe9050cad40913-cm9050cad40910.cpe.net.cable.rogers.com.54967: Flags [P.], seq 44:152, ack 1, win 501, length 108
+17:57:12.021800 IP 167.99.185.101.ssh > cpe9050cad40913-cm9050cad40910.cpe.net.cable.rogers.com.54967: Flags [P.], seq 152:188, ack 1, win 501, length 36
+17:57:12.033097 IP cpe9050cad40913-cm9050cad40910.cpe.net.cable.rogers.com.54967 > 167.99.185.101.ssh: Flags [.], ack 188, win 6235, length 0
+17:57:12.055878 IP cpe9050cad40913-cm9050cad40910.cpe.net.cable.rogers.com.62252 > 167.99.185.101.5551: UDP, length 0
+17:57:12.055925 IP 167.99.185.101 > cpe9050cad40913-cm9050cad40910.cpe.net.cable.rogers.com: ICMP 167.99.185.101 udp port 5551 unreachable, length 36
+17:57:12.566584 IP cpe9050cad40913-cm9050cad40910.cpe.net.cable.rogers.com.62252 > 167.99.185.101.5551: UDP, length 0
+17:57:13.078727 IP cpe9050cad40913-cm9050cad40910.cpe.net.cable.rogers.com.62252 > 167.99.185.101.5551: UDP, length 0
+17:57:13.078788 IP 167.99.185.101 > cpe9050cad40913-cm9050cad40910.cpe.net.cable.rogers.com: ICMP 167.99.185.101 udp port 5551 unreachable, length 36
+17:57:13.564810 IP cpe9050cad40913-cm9050cad40910.cpe.net.cable.rogers.com.62252 > 167.99.185.101.5551: UDP, length 0
+17:57:14.073138 IP cpe9050cad40913-cm9050cad40910.cpe.net.cable.rogers.com.62252 > 167.99.185.101.5551: UDP, length 0
+17:57:14.073189 IP 167.99.185.101 > cpe9050cad40913-cm9050cad40910.cpe.net.cable.rogers.com: ICMP 167.99.185.101 udp port 5551 unreachable, length 36
+17:57:14.576302 IP cpe9050cad40913-cm9050cad40910.cpe.net.cable.rogers.com.62252 > 167.99.185.101.5551: UDP, length 0
+17:57:15.080332 IP cpe9050cad40913-cm9050cad40910.cpe.net.cable.rogers.com.62252 > 167.99.185.101.5551: UDP, length 0
+17:57:15.080385 IP 167.99.185.101 > cpe9050cad40913-cm9050cad40910.cpe.net.cable.rogers.com: ICMP 167.99.185.101 udp port 5551 unreachable, length 36
+17:57:15.583389 IP cpe9050cad40913-cm9050cad40910.cpe.net.cable.rogers.com.62252 > 167.99.185.101.5551: UDP, length 0
+17:57:16.081258 IP cpe9050cad40913-cm9050cad40910.cpe.net.cable.rogers.com.62252 > 167.99.185.101.5551: UDP, length 0
+17:57:16.081309 IP 167.99.185.101 > cpe9050cad40913-cm9050cad40910.cpe.net.cable.rogers.com: ICMP 167.99.185.101 udp port 5551 unreachable, length 36
+17:57:16.605445 IP cpe9050cad40913-cm9050cad40910.cpe.net.cable.rogers.com.62252 > 167.99.185.101.5551: UDP, length 0
+17:57:17.096066 IP cpe9050cad40913-cm9050cad40910.cpe.net.cable.rogers.com.62252 > 167.99.185.101.5551: UDP, length 0
+17:57:17.096121 IP 167.99.185.101 > cpe9050cad40913-cm9050cad40910.cpe.net.cable.rogers.com: ICMP 167.99.185.101 udp port 5551 unreachable, length 36
+17:57:17.603309 IP cpe9050cad40913-cm9050cad40910.cpe.net.cable.rogers.com.62252 > 167.99.185.101.5551: UDP, length 0
+17:57:18.113499 IP cpe9050cad40913-cm9050cad40910.cpe.net.cable.rogers.com.62252 > 167.99.185.101.5551: UDP, length 0
+17:57:18.113550 IP 167.99.185.101 > cpe9050cad40913-cm9050cad40910.cpe.net.cable.rogers.com: ICMP 167.99.185.101 udp port 5551 unreachable, length 36
+17:57:18.622113 IP cpe9050cad40913-cm9050cad40910.cpe.net.cable.rogers.com.62252 > 167.99.185.101.5551: UDP, length 0
+17:57:19.118836 IP cpe9050cad40913-cm9050cad40910.cpe.net.cable.rogers.com.62252 > 167.99.185.101.5551: UDP, length 0
+17:57:19.118890 IP 167.99.185.101 > cpe9050cad40913-cm9050cad40910.cpe.net.cable.rogers.com: ICMP 167.99.185.101 udp port 5551 unreachable, length 36
+17:57:19.615310 IP cpe9050cad40913-cm9050cad40910.cpe.net.cable.rogers.com.62252 > 167.99.185.101.5551: UDP, length 0
+17:57:20.126765 IP cpe9050cad40913-cm9050cad40910.cpe.net.cable.rogers.com.62252 > 167.99.185.101.5551: UDP, length 0
+17:57:20.126818 IP 167.99.185.101 > cpe9050cad40913-cm9050cad40910.cpe.net.cable.rogers.com: ICMP 167.99.185.101 udp port 5551 unreachable, length 36
+17:57:20.627153 IP cpe9050cad40913-cm9050cad40910.cpe.net.cable.rogers.com.62252 > 167.99.185.101.5551: UDP, length 0
+17:57:21.132177 IP cpe9050cad40913-cm9050cad40910.cpe.net.cable.rogers.com.62252 > 167.99.185.101.5551: UDP, length 0
+17:57:21.132239 IP 167.99.185.101 > cpe9050cad40913-cm9050cad40910.cpe.net.cable.rogers.com: ICMP 167.99.185.101 udp port 5551 unreachable, length 36
+17:57:21.637630 IP cpe9050cad40913-cm9050cad40910.cpe.net.cable.rogers.com.62252 > 167.99.185.101.5551: UDP, length 0
+17:57:22.142572 IP cpe9050cad40913-cm9050cad40910.cpe.net.cable.rogers.com.62252 > 167.99.185.101.5551: UDP, length 0
+17:57:22.142623 IP 167.99.185.101 > cpe9050cad40913-cm9050cad40910.cpe.net.cable.rogers.com: ICMP 167.99.185.101 udp port 5551 unreachable, length 36
+17:57:22.652455 IP cpe9050cad40913-cm9050cad40910.cpe.net.cable.rogers.com.62252 > 167.99.185.101.5551: UDP, length 0
+17:57:23.148440 IP cpe9050cad40913-cm9050cad40910.cpe.net.cable.rogers.com.62252 > 167.99.185.101.5551: UDP, length 0
+17:57:23.148491 IP 167.99.185.101 > cpe9050cad40913-cm9050cad40910.cpe.net.cable.rogers.com: ICMP 167.99.185.101 udp port 5551 unreachable, length 36
+17:57:23.651414 IP cpe9050cad40913-cm9050cad40910.cpe.net.cable.rogers.com.62252 > 167.99.185.101.5551: UDP, length 0
+17:57:24.166232 IP cpe9050cad40913-cm9050cad40910.cpe.net.cable.rogers.com.62252 > 167.99.185.101.5551: UDP, length 0
+17:57:24.166283 IP 167.99.185.101 > cpe9050cad40913-cm9050cad40910.cpe.net.cable.rogers.com: ICMP 167.99.185.101 udp port 5551 unreachable, length 36
+17:57:24.584443 IP 194.147.140.109.56272 > 167.99.185.101.40831: Flags [S], seq 2217663651, win 1024, length 0
+17:57:24.664491 IP cpe9050cad40913-cm9050cad40910.cpe.net.cable.rogers.com.62252 > 167.99.185.101.5551: UDP, length 0
+17:57:25.163057 IP cpe9050cad40913-cm9050cad40910.cpe.net.cable.rogers.com.62252 > 167.99.185.101.5551: UDP, length 0
+17:57:25.163124 IP 167.99.185.101 > cpe9050cad40913-cm9050cad40910.cpe.net.cable.rogers.com: ICMP 167.99.185.101 udp port 5551 unreachable, length 36
+17:57:25.667207 IP cpe9050cad40913-cm9050cad40910.cpe.net.cable.rogers.com.62252 > 167.99.185.101.5551: UDP, length 0
+17:57:26.177114 IP cpe9050cad40913-cm9050cad40910.cpe.net.cable.rogers.com.62252 > 167.99.185.101.5551: UDP, length 0
+17:57:26.177168 IP 167.99.185.101 > cpe9050cad40913-cm9050cad40910.cpe.net.cable.rogers.com: ICMP 167.99.185.101 udp port 5551 unreachable, length 36
+17:57:26.581135 IP 194.147.140.65.48395 > 167.99.185.101.33994: Flags [S], seq 2894267635, win 1024, length 0
+17:57:26.683416 IP cpe9050cad40913-cm9050cad40910.cpe.net.cable.rogers.com.62252 > 167.99.185.101.5551: UDP, length 0
+17:57:27.188899 IP cpe9050cad40913-cm9050cad40910.cpe.net.cable.rogers.com.62252 > 167.99.185.101.5551: UDP, length 0
+17:57:27.188953 IP 167.99.185.101 > cpe9050cad40913-cm9050cad40910.cpe.net.cable.rogers.com: ICMP 167.99.185.101 udp port 5551 unreachable, length 36
+17:57:27.693909 IP cpe9050cad40913-cm9050cad40910.cpe.net.cable.rogers.com.62252 > 167.99.185.101.5551: UDP, length 0
+17:57:28.199102 IP cpe9050cad40913-cm9050cad40910.cpe.net.cable.rogers.com.62252 > 167.99.185.101.5551: UDP, length 0
+17:57:28.199156 IP 167.99.185.101 > cpe9050cad40913-cm9050cad40910.cpe.net.cable.rogers.com: ICMP 167.99.185.101 udp port 5551 unreachable, length 36
+17:57:28.704013 IP cpe9050cad40913-cm9050cad40910.cpe.net.cable.rogers.com.62252 > 167.99.185.101.5551: UDP, length 0
+17:57:29.216082 IP cpe9050cad40913-cm9050cad40910.cpe.net.cable.rogers.com.62252 > 167.99.185.101.5551: UDP, length 0
+17:57:29.216152 IP 167.99.185.101 > cpe9050cad40913-cm9050cad40910.cpe.net.cable.rogers.com: ICMP 167.99.185.101 udp port 5551 unreachable, length 36
+17:57:29.723998 IP cpe9050cad40913-cm9050cad40910.cpe.net.cable.rogers.com.62252 > 167.99.185.101.5551: UDP, length 0
+17:57:30.229923 IP cpe9050cad40913-cm9050cad40910.cpe.net.cable.rogers.com.62252 > 167.99.185.101.5551: UDP, length 0
+17:57:30.229987 IP 167.99.185.101 > cpe9050cad40913-cm9050cad40910.cpe.net.cable.rogers.com: ICMP 167.99.185.101 udp port 5551 unreachable, length 36
+17:57:30.539762 IP ec2-18-163-6-2.ap-east-1.compute.amazonaws.com > 167.99.185.101: ICMP echo request, id 27, seq 7607, length 64
+17:57:30.539817 IP 167.99.185.101 > ec2-18-163-6-2.ap-east-1.compute.amazonaws.com: ICMP echo reply, id 27, seq 7607, length 64
+17:57:30.785197 IP cpe9050cad40913-cm9050cad40910.cpe.net.cable.rogers.com.62252 > 167.99.185.101.5551: UDP, length 0
+17:57:30.785257 IP 167.99.185.101 > cpe9050cad40913-cm9050cad40910.cpe.net.cable.rogers.com: ICMP 167.99.185.101 udp port 5551 unreachable, length 36
+17:57:31.290777 IP cpe9050cad40913-cm9050cad40910.cpe.net.cable.rogers.com.62252 > 167.99.185.101.5551: UDP, length 0
+17:57:31.792647 IP cpe9050cad40913-cm9050cad40910.cpe.net.cable.rogers.com.62252 > 167.99.185.101.5551: UDP, length 0
+17:57:31.792714 IP 167.99.185.101 > cpe9050cad40913-cm9050cad40910.cpe.net.cable.rogers.com: ICMP 167.99.185.101 udp port 5551 unreachable, length 36
+17:57:31.834219 IP ec2-18-163-6-2.ap-east-1.compute.amazonaws.com > 167.99.185.101: ICMP echo request, id 27, seq 13964, length 64
+17:57:31.834271 IP 167.99.185.101 > ec2-18-163-6-2.ap-east-1.compute.amazonaws.com: ICMP echo reply, id 27, seq 13964, length 64
+17:57:32.307158 IP cpe9050cad40913-cm9050cad40910.cpe.net.cable.rogers.com.62252 > 167.99.185.101.5551: UDP, length 0
+17:57:32.808206 IP cpe9050cad40913-cm9050cad40910.cpe.net.cable.rogers.com.62252 > 167.99.185.101.5551: UDP, length 0
+17:57:32.808260 IP 167.99.185.101 > cpe9050cad40913-cm9050cad40910.cpe.net.cable.rogers.com: ICMP 167.99.185.101 udp port 5551 unreachable, length 36
+17:57:33.138587 IP 170.130.187.42.51792 > 167.99.185.101.ftp: Flags [S], seq 1152928023, win 1024, options [mss 1460], length 0
+17:57:33.314871 IP cpe9050cad40913-cm9050cad40910.cpe.net.cable.rogers.com.62252 > 167.99.185.101.5551: UDP, length 0
+17:57:33.817045 IP cpe9050cad40913-cm9050cad40910.cpe.net.cable.rogers.com.62252 > 167.99.185.101.5551: UDP, length 0
+17:57:33.817101 IP 167.99.185.101 > cpe9050cad40913-cm9050cad40910.cpe.net.cable.rogers.com: ICMP 167.99.185.101 udp port 5551 unreachable, length 36
+17:57:34.324722 IP cpe9050cad40913-cm9050cad40910.cpe.net.cable.rogers.com.62252 > 167.99.185.101.5551: UDP, length 0
+17:57:34.834215 IP cpe9050cad40913-cm9050cad40910.cpe.net.cable.rogers.com.62252 > 167.99.185.101.5551: UDP, length 0
+17:57:34.834270 IP 167.99.185.101 > cpe9050cad40913-cm9050cad40910.cpe.net.cable.rogers.com: ICMP 167.99.185.101 udp port 5551 unreachable, length 36
+17:57:35.326149 IP cpe9050cad40913-cm9050cad40910.cpe.net.cable.rogers.com.62252 > 167.99.185.101.5551: UDP, length 0
+17:57:35.835699 IP cpe9050cad40913-cm9050cad40910.cpe.net.cable.rogers.com.62252 > 167.99.185.101.5551: UDP, length 0
+17:57:35.835753 IP 167.99.185.101 > cpe9050cad40913-cm9050cad40910.cpe.net.cable.rogers.com: ICMP 167.99.185.101 udp port 5551 unreachable, length 36
+17:57:36.340381 IP cpe9050cad40913-cm9050cad40910.cpe.net.cable.rogers.com.62252 > 167.99.185.101.5551: UDP, length 0
+17:57:36.844585 IP cpe9050cad40913-cm9050cad40910.cpe.net.cable.rogers.com.62252 > 167.99.185.101.5551: UDP, length 0
+17:57:36.844665 IP 167.99.185.101 > cpe9050cad40913-cm9050cad40910.cpe.net.cable.rogers.com: ICMP 167.99.185.101 udp port 5551 unreachable, length 36
+17:57:37.346468 IP cpe9050cad40913-cm9050cad40910.cpe.net.cable.rogers.com.62252 > 167.99.185.101.5551: UDP, length 0
+17:57:37.853069 IP cpe9050cad40913-cm9050cad40910.cpe.net.cable.rogers.com.62252 > 167.99.185.101.5551: UDP, length 0
+17:57:37.853120 IP 167.99.185.101 > cpe9050cad40913-cm9050cad40910.cpe.net.cable.rogers.com: ICMP 167.99.185.101 udp port 5551 unreachable, length 36
+17:57:38.364561 IP cpe9050cad40913-cm9050cad40910.cpe.net.cable.rogers.com.62252 > 167.99.185.101.5551: UDP, length 0
+17:57:38.868110 IP cpe9050cad40913-cm9050cad40910.cpe.net.cable.rogers.com.62252 > 167.99.185.101.5551: UDP, length 0
+17:57:38.868162 IP 167.99.185.101 > cpe9050cad40913-cm9050cad40910.cpe.net.cable.rogers.com: ICMP 167.99.185.101 udp port 5551 unreachable, length 36
+17:57:39.369434 IP cpe9050cad40913-cm9050cad40910.cpe.net.cable.rogers.com.62252 > 167.99.185.101.5551: UDP, length 0
+17:57:39.865334 IP cpe9050cad40913-cm9050cad40910.cpe.net.cable.rogers.com.62252 > 167.99.185.101.5551: UDP, length 0
+17:57:39.865390 IP 167.99.185.101 > cpe9050cad40913-cm9050cad40910.cpe.net.cable.rogers.com: ICMP 167.99.185.101 udp port 5551 unreachable, length 36
+17:57:40.373665 IP cpe9050cad40913-cm9050cad40910.cpe.net.cable.rogers.com.62252 > 167.99.185.101.5551: UDP, length 0
+17:57:40.874936 IP cpe9050cad40913-cm9050cad40910.cpe.net.cable.rogers.com.62252 > 167.99.185.101.5551: UDP, length 0
+17:57:40.875007 IP 167.99.185.101 > cpe9050cad40913-cm9050cad40910.cpe.net.cable.rogers.com: ICMP 167.99.185.101 udp port 5551 unreachable, length 36
+17:57:41.374761 IP cpe9050cad40913-cm9050cad40910.cpe.net.cable.rogers.com.62252 > 167.99.185.101.5551: UDP, length 0
+17:57:41.883091 IP cpe9050cad40913-cm9050cad40910.cpe.net.cable.rogers.com.62252 > 167.99.185.101.5551: UDP, length 0
+17:57:41.883143 IP 167.99.185.101 > cpe9050cad40913-cm9050cad40910.cpe.net.cable.rogers.com: ICMP 167.99.185.101 udp port 5551 unreachable, length 36
+17:57:42.384033 IP cpe9050cad40913-cm9050cad40910.cpe.net.cable.rogers.com.62252 > 167.99.185.101.5551: UDP, length 0
+17:57:42.885247 IP cpe9050cad40913-cm9050cad40910.cpe.net.cable.rogers.com.62252 > 167.99.185.101.5551: UDP, length 0
+17:57:42.885302 IP 167.99.185.101 > cpe9050cad40913-cm9050cad40910.cpe.net.cable.rogers.com: ICMP 167.99.185.101 udp port 5551 unreachable, length 36
+17:57:43.392660 IP cpe9050cad40913-cm9050cad40910.cpe.net.cable.rogers.com.62252 > 167.99.185.101.5551: UDP, length 0
+17:57:43.894078 IP cpe9050cad40913-cm9050cad40910.cpe.net.cable.rogers.com.62252 > 167.99.185.101.5551: UDP, length 0
+17:57:43.894129 IP 167.99.185.101 > cpe9050cad40913-cm9050cad40910.cpe.net.cable.rogers.com: ICMP 167.99.185.101 udp port 5551 unreachable, length 36
+17:57:44.398103 IP cpe9050cad40913-cm9050cad40910.cpe.net.cable.rogers.com.62252 > 167.99.185.101.5551: UDP, length 0
+17:57:44.904423 IP cpe9050cad40913-cm9050cad40910.cpe.net.cable.rogers.com.62252 > 167.99.185.101.5551: UDP, length 0
+17:57:44.904480 IP 167.99.185.101 > cpe9050cad40913-cm9050cad40910.cpe.net.cable.rogers.com: ICMP 167.99.185.101 udp port 5551 unreachable, length 36
+17:57:45.416349 IP cpe9050cad40913-cm9050cad40910.cpe.net.cable.rogers.com.62252 > 167.99.185.101.5551: UDP, length 0
+17:57:45.914139 IP cpe9050cad40913-cm9050cad40910.cpe.net.cable.rogers.com.62252 > 167.99.185.101.5551: UDP, length 0
+17:57:45.914192 IP 167.99.185.101 > cpe9050cad40913-cm9050cad40910.cpe.net.cable.rogers.com: ICMP 167.99.185.101 udp port 5551 unreachable, length 36
+17:57:46.417748 IP cpe9050cad40913-cm9050cad40910.cpe.net.cable.rogers.com.62252 > 167.99.185.101.5551: UDP, length 0
+17:57:46.921977 ARP, Request who-has 167.99.176.1 tell 167.99.185.101, length 28
+17:57:46.922817 ARP, Reply 167.99.176.1 is-at fe:00:00:00:01:01 (oui Unknown), length 46
+17:57:46.926767 IP cpe9050cad40913-cm9050cad40910.cpe.net.cable.rogers.com.62252 > 167.99.185.101.5551: UDP, length 0
+17:57:46.926811 IP 167.99.185.101 > cpe9050cad40913-cm9050cad40910.cpe.net.cable.rogers.com: ICMP 167.99.185.101 udp port 5551 unreachable, length 36
+17:57:47.431487 IP cpe9050cad40913-cm9050cad40910.cpe.net.cable.rogers.com.62252 > 167.99.185.101.5551: UDP, length 0
+17:57:47.926232 IP cpe9050cad40913-cm9050cad40910.cpe.net.cable.rogers.com.62252 > 167.99.185.101.5551: UDP, length 0
+17:57:47.926311 IP 167.99.185.101 > cpe9050cad40913-cm9050cad40910.cpe.net.cable.rogers.com: ICMP 167.99.185.101 udp port 5551 unreachable, length 36
+17:57:48.437293 IP cpe9050cad40913-cm9050cad40910.cpe.net.cable.rogers.com.62252 > 167.99.185.101.5551: UDP, length 0
+17:57:48.938294 IP cpe9050cad40913-cm9050cad40910.cpe.net.cable.rogers.com.62252 > 167.99.185.101.5551: UDP, length 0
+17:57:48.938351 IP 167.99.185.101 > cpe9050cad40913-cm9050cad40910.cpe.net.cable.rogers.com: ICMP 167.99.185.101 udp port 5551 unreachable, length 36
+17:57:49.441727 IP cpe9050cad40913-cm9050cad40910.cpe.net.cable.rogers.com.62252 > 167.99.185.101.5551: UDP, length 0
+17:57:49.948911 IP cpe9050cad40913-cm9050cad40910.cpe.net.cable.rogers.com.62252 > 167.99.185.101.5551: UDP, length 0
+17:57:49.948962 IP 167.99.185.101 > cpe9050cad40913-cm9050cad40910.cpe.net.cable.rogers.com: ICMP 167.99.185.101 udp port 5551 unreachable, length 36
+17:57:50.486324 IP cpe9050cad40913-cm9050cad40910.cpe.net.cable.rogers.com.62252 > 167.99.185.101.5551: UDP, length 0
+17:57:50.977360 IP cpe9050cad40913-cm9050cad40910.cpe.net.cable.rogers.com.62252 > 167.99.185.101.5551: UDP, length 0
+17:57:50.977415 IP 167.99.185.101 > cpe9050cad40913-cm9050cad40910.cpe.net.cable.rogers.com: ICMP 167.99.185.101 udp port 5551 unreachable, length 36
+17:57:51.480820 IP cpe9050cad40913-cm9050cad40910.cpe.net.cable.rogers.com.62252 > 167.99.185.101.5551: UDP, length 0
+17:57:51.991081 IP cpe9050cad40913-cm9050cad40910.cpe.net.cable.rogers.com.62252 > 167.99.185.101.5551: UDP, length 0
+17:57:51.991133 IP 167.99.185.101 > cpe9050cad40913-cm9050cad40910.cpe.net.cable.rogers.com: ICMP 167.99.185.101 udp port 5551 unreachable, length 36
+17:57:52.498991 IP cpe9050cad40913-cm9050cad40910.cpe.net.cable.rogers.com.62252 > 167.99.185.101.5551: UDP, length 0
+17:57:53.015123 IP cpe9050cad40913-cm9050cad40910.cpe.net.cable.rogers.com.62252 > 167.99.185.101.5551: UDP, length 0
+17:57:53.015177 IP 167.99.185.101 > cpe9050cad40913-cm9050cad40910.cpe.net.cable.rogers.com: ICMP 167.99.185.101 udp port 5551 unreachable, length 36
+17:57:53.514297 IP cpe9050cad40913-cm9050cad40910.cpe.net.cable.rogers.com.62252 > 167.99.185.101.5551: UDP, length 0
+17:57:54.012543 IP cpe9050cad40913-cm9050cad40910.cpe.net.cable.rogers.com.62252 > 167.99.185.101.5551: UDP, length 0
+17:57:54.012596 IP 167.99.185.101 > cpe9050cad40913-cm9050cad40910.cpe.net.cable.rogers.com: ICMP 167.99.185.101 udp port 5551 unreachable, length 36
+17:57:54.526186 IP cpe9050cad40913-cm9050cad40910.cpe.net.cable.rogers.com.62252 > 167.99.185.101.5551: UDP, length 0
+17:57:55.022515 IP cpe9050cad40913-cm9050cad40910.cpe.net.cable.rogers.com.62252 > 167.99.185.101.5551: UDP, length 0
+17:57:55.022563 IP 167.99.185.101 > cpe9050cad40913-cm9050cad40910.cpe.net.cable.rogers.com: ICMP 167.99.185.101 udp port 5551 unreachable, length 36
+17:57:55.537696 IP cpe9050cad40913-cm9050cad40910.cpe.net.cable.rogers.com.62252 > 167.99.185.101.5551: UDP, length 0
+17:57:56.043891 IP cpe9050cad40913-cm9050cad40910.cpe.net.cable.rogers.com.62252 > 167.99.185.101.5551: UDP, length 0
+17:57:56.043955 IP 167.99.185.101 > cpe9050cad40913-cm9050cad40910.cpe.net.cable.rogers.com: ICMP 167.99.185.101 udp port 5551 unreachable, length 36
+17:57:56.550269 IP cpe9050cad40913-cm9050cad40910.cpe.net.cable.rogers.com.62252 > 167.99.185.101.5551: UDP, length 0
+17:57:57.047893 IP cpe9050cad40913-cm9050cad40910.cpe.net.cable.rogers.com.62252 > 167.99.185.101.5551: UDP, length 0
+17:57:57.047949 IP 167.99.185.101 > cpe9050cad40913-cm9050cad40910.cpe.net.cable.rogers.com: ICMP 167.99.185.101 udp port 5551 unreachable, length 36
+17:57:57.557494 IP cpe9050cad40913-cm9050cad40910.cpe.net.cable.rogers.com.62252 > 167.99.185.101.5551: UDP, length 0
+17:57:58.055992 IP cpe9050cad40913-cm9050cad40910.cpe.net.cable.rogers.com.62252 > 167.99.185.101.5551: UDP, length 0
+17:57:58.056048 IP 167.99.185.101 > cpe9050cad40913-cm9050cad40910.cpe.net.cable.rogers.com: ICMP 167.99.185.101 udp port 5551 unreachable, length 36
+17:57:58.558558 IP cpe9050cad40913-cm9050cad40910.cpe.net.cable.rogers.com.62252 > 167.99.185.101.5551: UDP, length 0
+17:57:59.076231 IP cpe9050cad40913-cm9050cad40910.cpe.net.cable.rogers.com.62252 > 167.99.185.101.5551: UDP, length 0
+17:57:59.076283 IP 167.99.185.101 > cpe9050cad40913-cm9050cad40910.cpe.net.cable.rogers.com: ICMP 167.99.185.101 udp port 5551 unreachable, length 36
+17:57:59.583592 IP cpe9050cad40913-cm9050cad40910.cpe.net.cable.rogers.com.62252 > 167.99.185.101.5551: UDP, length 0
+17:58:00.088468 IP cpe9050cad40913-cm9050cad40910.cpe.net.cable.rogers.com.62252 > 167.99.185.101.5551: UDP, length 0
+17:58:00.088532 IP 167.99.185.101 > cpe9050cad40913-cm9050cad40910.cpe.net.cable.rogers.com: ICMP 167.99.185.101 udp port 5551 unreachable, length 36
+17:58:00.598993 IP cpe9050cad40913-cm9050cad40910.cpe.net.cable.rogers.com.62252 > 167.99.185.101.5551: UDP, length 0
+17:58:01.055077 IP ec2-18-163-84-101.ap-east-1.compute.amazonaws.com > 167.99.185.101: ICMP echo request, id 25, seq 16824, length 64
+17:58:01.055134 IP 167.99.185.101 > ec2-18-163-84-101.ap-east-1.compute.amazonaws.com: ICMP echo reply, id 25, seq 16824, length 64
+17:58:01.100913 IP cpe9050cad40913-cm9050cad40910.cpe.net.cable.rogers.com.62252 > 167.99.185.101.5551: UDP, length 0
+17:58:01.100976 IP 167.99.185.101 > cpe9050cad40913-cm9050cad40910.cpe.net.cable.rogers.com: ICMP 167.99.185.101 udp port 5551 unreachable, length 36
+17:58:01.608899 IP cpe9050cad40913-cm9050cad40910.cpe.net.cable.rogers.com.62252 > 167.99.185.101.5551: UDP, length 0
+17:58:02.119893 IP cpe9050cad40913-cm9050cad40910.cpe.net.cable.rogers.com.62252 > 167.99.185.101.5551: UDP, length 0
+17:58:02.119944 IP 167.99.185.101 > cpe9050cad40913-cm9050cad40910.cpe.net.cable.rogers.com: ICMP 167.99.185.101 udp port 5551 unreachable, length 36
+17:58:02.623770 IP cpe9050cad40913-cm9050cad40910.cpe.net.cable.rogers.com.62252 > 167.99.185.101.5551: UDP, length 0
+17:58:03.119479 IP cpe9050cad40913-cm9050cad40910.cpe.net.cable.rogers.com.62252 > 167.99.185.101.5551: UDP, length 0
+17:58:03.119529 IP 167.99.185.101 > cpe9050cad40913-cm9050cad40910.cpe.net.cable.rogers.com: ICMP 167.99.185.101 udp port 5551 unreachable, length 36
+17:58:03.630253 IP cpe9050cad40913-cm9050cad40910.cpe.net.cable.rogers.com.62252 > 167.99.185.101.5551: UDP, length 0
+17:58:04.156845 IP cpe9050cad40913-cm9050cad40910.cpe.net.cable.rogers.com.62252 > 167.99.185.101.5551: UDP, length 0
+17:58:04.156909 IP 167.99.185.101 > cpe9050cad40913-cm9050cad40910.cpe.net.cable.rogers.com: ICMP 167.99.185.101 udp port 5551 unreachable, length 36
+17:58:04.666719 IP cpe9050cad40913-cm9050cad40910.cpe.net.cable.rogers.com.62252 > 167.99.185.101.5551: UDP, length 0
+17:58:05.171958 IP cpe9050cad40913-cm9050cad40910.cpe.net.cable.rogers.com.62252 > 167.99.185.101.5551: UDP, length 0
+17:58:05.172010 IP 167.99.185.101 > cpe9050cad40913-cm9050cad40910.cpe.net.cable.rogers.com: ICMP 167.99.185.101 udp port 5551 unreachable, length 36
+17:58:05.681437 IP cpe9050cad40913-cm9050cad40910.cpe.net.cable.rogers.com.62252 > 167.99.185.101.5551: UDP, length 0
+17:58:06.188264 IP cpe9050cad40913-cm9050cad40910.cpe.net.cable.rogers.com.62252 > 167.99.185.101.5551: UDP, length 0
+17:58:06.188329 IP 167.99.185.101 > cpe9050cad40913-cm9050cad40910.cpe.net.cable.rogers.com: ICMP 167.99.185.101 udp port 5551 unreachable, length 36
+root@Week1:~# ^C
+root@Week1:~#

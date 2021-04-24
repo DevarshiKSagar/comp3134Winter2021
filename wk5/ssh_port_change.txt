@@ -1,0 +1,3 @@
+6> service mysql stop
+7>  ssh root@167.99.185.101 -p 2222
+
